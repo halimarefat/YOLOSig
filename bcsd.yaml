@@ -1,0 +1,6 @@
+path: /Users/ali/Desktop/YOLOSeg/BCSD_YOLO
+train: images/train
+val:  images/val
+
+nc: 9  # Number of classes
+names: ['logo', 'signature', 'routing_num', 'account_num', 'check_num_b', 'check_num_t', 'dollar_box', 'amount', 'date']
